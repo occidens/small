@@ -45,6 +45,7 @@ To the extent possible under law, the author has waived all copyright and relate
 - [Bitmap image file/Device Independent Bitmap .bmp](bmp.bmp)
 - [Better Portable Graphics .bpg](bpg.bpg)
 - [DICOM/Digital Imaging and Communications in Medicine .dcm](dicom.dcm)
+- [Drawing Exchange Format .dxf](dxf.dxf)
 - [Graphics Interchange Format .gif](gif.gif) [(transparent)](gif-transparent.gif)
 - [High Efficiency Image File](heic.heif)
 - [ICO file format .ico/.cur](ico.ico)
